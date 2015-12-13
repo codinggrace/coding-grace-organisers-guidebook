@@ -1,4 +1,6 @@
-My Awesome Book
+Coding Grace Organisers Guidebook
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This guidebook will help you get started as a Coding Grace Organiser.
+
+Any questions: organisers@codinggrace.com
