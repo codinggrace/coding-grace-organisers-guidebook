@@ -1,3 +1,7 @@
-# First Chapter
+# Timeline
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* 1 month before
+  * Workshop topic
+  * Call for mentors
+  * Have a date in mind
+  * Enquire about venues
